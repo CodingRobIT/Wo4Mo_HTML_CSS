@@ -1,0 +1,37 @@
+h2 {
+    color: red;
+    width:  200px;
+}
+
+margin {
+    color: black; background: black;
+}
+
+div {               /* 1 Punkt wert */
+    color: blue; background: black;
+}
+
+.blog-entry {       /* 10 Punkte wert */
+    color: white; background: black; flex-direction: row; display: flex;
+}
+
+/*#block-entry2 {     !* 100 Punkte wert *!*/
+/*    color: cadetblue; background: black;*/
+/*}*/
+
+.blog-entry1 {
+    color: white; background: black; display: flex;
+}
+
+.block-entry2 {
+    color: white; background: black;
+}
+
+.end  {
+    color: red; background: black;
+}
+
+.container {
+    display: flex;
+}
+
