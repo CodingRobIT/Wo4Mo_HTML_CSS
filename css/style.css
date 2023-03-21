@@ -12,7 +12,7 @@ div {               /* 1 Punkt wert */
 }
 
 .blog-entry {       /* 10 Punkte wert */
-    color: white; background: black; flex-direction: row; display: flex;
+    color: white; background: black; flex-direction: row; display: flex; align-items: center;
 }
 
 /*#block-entry2 {     !* 100 Punkte wert *!*/
@@ -20,11 +20,18 @@ div {               /* 1 Punkt wert */
 /*}*/
 
 .blog-entry1 {
-    color: white; background: black; display: flex;
+    color: white; background: black; align-items: center;
+}
+
+.blog-entry1_2{
+    color: white; background: black; display: flex; align-items: center; justify-content: space-around; justify-content: flex-start;
 }
 
 .block-entry2 {
     color: white; background: black;
+}
+.block-entry2_2 {
+    color: white; background: black; display: flex; align-items: center; justify-content: space-around; justify-content: flex-start;
 }
 
 .end  {
