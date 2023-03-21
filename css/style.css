@@ -3,16 +3,16 @@ h2 {
     width:  200px;
 }
 
-margin {
-    color: black; background: black;
-}
+
+
 
 div {               /* 1 Punkt wert */
-    color: blue; background: black;
+    background: black;
 }
 
 .blog-entry {       /* 10 Punkte wert */
-    color: white; background: black; flex-direction: row; display: flex; align-items: center;
+    color: white; background: black; flex-direction: row; display: flex; align-items: center; justify-content: space-evenly;
+    width: 1000px;
 }
 
 /*#block-entry2 {     !* 100 Punkte wert *!*/
@@ -24,24 +24,30 @@ div {               /* 1 Punkt wert */
 }
 
 .blog-entry1_2{
-    color: white; background: black; display: flex; align-items: center; justify-content: space-around; justify-content: flex-start;
+    color: white; background: black; display: flex; align-items: center; justify-content: flex-start;
+
 }
 
 .block-entry2 {
     color: white; background: black;
 }
 .block-entry2_2 {
-    color: white; background: black; display: flex; align-items: center; justify-content: space-around; justify-content: flex-start;
+    color: white; background: black; display: flex; align-items: center; justify-content: flex-start;
+    width: 1000px;
 }
 
 .end  {
-    color: red; background: black;
+    color: red; background: black; flex-direction: row; align-items: flex-start; justify-content: flex-start;
 }
 
 .container {
     display: flex; justify-content: flex-end;
 }
 
-#example-pic1,#example-pic2 {  /*funktioniert so vermutlich nicht*/
+#example-pic1, #example-pic2 {  /*funktioniert so vermutlich nicht*/
     flex-direction: column;
+}
+
+body {
+    background: black;
 }
