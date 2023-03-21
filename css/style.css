@@ -39,6 +39,9 @@ div {               /* 1 Punkt wert */
 }
 
 .container {
-    display: flex;
+    display: flex; justify-content: flex-end;
 }
 
+#example-pic1,#example-pic2 {  /*funktioniert so vermutlich nicht*/
+    flex-direction: column;
+}

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a795f423-dae4-4da8-a697-dbecb211af49" name="Changes" comment="N/A">
+    <list default="true" id="a795f423-dae4-4da8-a697-dbecb211af49" name="Changes" comment="added style.css &gt; Rough arrangement of the elements with CSS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679302236356</updated>
       <workItem from="1679302237791" duration="16071000" />
-      <workItem from="1679381376068" duration="1723000" />
+      <workItem from="1679381376068" duration="3137000" />
     </task>
     <task id="LOCAL-00001" summary="Init + index.html">
       <created>1679309118262</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679344694635</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added style.css &gt; Rough arrangement of the elements with CSS">
+      <created>1679383292807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679383292807</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init + index.html" />
     <MESSAGE value="N/A" />
-    <option name="LAST_COMMIT_MESSAGE" value="N/A" />
+    <MESSAGE value="added style.css &gt; Rough arrangement of the elements with CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="added style.css &gt; Rough arrangement of the elements with CSS" />
   </component>
 </project>
